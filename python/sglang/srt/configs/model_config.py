@@ -1525,6 +1525,7 @@ multimodal_model_archs = [
     "Lfm2VlForConditionalGeneration",
     "LightOnOCRForConditionalGeneration",
     *MIMO_V2_MULTIMODAL_ARCHS,
+    "MiMoV2ASRForCausalLM",
     "MiniCPMO",
     "MiniCPMV",
     "Mistral3ForConditionalGeneration",
